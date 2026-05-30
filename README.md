@@ -2,7 +2,7 @@
 
 **high refresh street-level infrastructure intelligence for LATAM cities — powered by Artificial Infinity.**
 
-Query road health, utility anomalies, signage, and asset conditions across Bogotá, Medellín, and other Colombian cities via natural language through any MCP-compatible AI agent.
+Query road health, utility anomalies, signage, and asset conditions across Bogotá, Medellín,  via natural language through any MCP-compatible AI agent.
 
 ---
 
