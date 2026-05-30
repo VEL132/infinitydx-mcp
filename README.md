@@ -168,8 +168,8 @@ Once connected, ask your AI agent:
 | Tier | Price | Calls/month | Coordinates |
 |------|-------|-------------|-------------|
 | Free | $0 | 100 | ❌ |
-| Explorer | $49/month | 5,000 | ✅ |
-| Pro | $199/month | 50,000 | ✅ |
+| Developer |$120/month | 2,000 | ✅ |
+| Pro | $499/month | 10,000 | ✅ |
 | Enterprise | Custom | Unlimited | ✅ |
 
 Get your key at **[artinfinitydx.com/mcp](https://artinfinitydx.com/mcp)**
