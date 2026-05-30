@@ -194,7 +194,7 @@ All authenticated endpoints require `X-Api-Key` header.
 
 ## About InfinityDx
 
-Artificial Infinity is a Physical AI company building the continuously updated street-level intelligence layer that infrastructure operators, cities, and autonomous systems need to understand and act on the physical world.
+Artificial Infinity is a Physical AI company building the continuously updated street-level intelligence layer that infrastructure operators, cities, autonomous systems, and others need to understand and act on the physical world.
 
 - Website: [artinfinitydx.com](https://artinfinitydx.com)
 - Email: heyplugatt@virtualel.com
@@ -205,4 +205,3 @@ Artificial Infinity is a Physical AI company building the continuously updated s
 
 ## License
 
-MIT — free to use, fork, and build on.
