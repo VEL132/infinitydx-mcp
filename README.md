@@ -192,14 +192,14 @@ All authenticated endpoints require `X-Api-Key` header.
 
 ---
 
-## About Artificial Infinity
+## About InfinityDx
 
 Artificial Infinity is a Physical AI company building the continuously updated street-level intelligence layer that infrastructure operators, cities, and autonomous systems need to understand and act on the physical world.
 
 - Website: [artinfinitydx.com](https://artinfinitydx.com)
-- Email: gmo@virtualel.com
-- NVIDIA Inception Program Partner
-- AWS Startups Partner
+- Email: heyplugatt@virtualel.com
+- NVIDIA Inception Program Member 
+- AWS Startups Member 
 
 ---
 
